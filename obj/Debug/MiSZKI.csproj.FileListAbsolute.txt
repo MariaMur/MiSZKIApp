@@ -1,0 +1,10 @@
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\obj\Debug\MiSZKI.MiSZKI.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\obj\Debug\MiSZKI.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\obj\Debug\MiSZKI.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\bin\Debug\MiSZKI.exe
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\bin\Debug\MiSZKI.pdb
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\bin\Debug\DES_1.dll
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\bin\Debug\DES_1.pdb
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\obj\Debug\MiSZKI.exe
+C:\Users\Acer\Documents\Visual Studio 2008\Projects\MiSZKI\obj\Debug\MiSZKI.pdb
